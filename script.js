@@ -1,4 +1,4 @@
-const SHEET_ID='12sl4qtRuxadkUYeF7KIFEiBPxfnyotkAbh0zoiShvcQ';
+const SHEET_ID='1jWVhTfqvpR2DTMV0SIhccOisZlZR_tZv2u6mf3rPPPc';
 const SHEET_NAME='시트1';
 const csvUrl=`https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(SHEET_NAME)}`;
 
